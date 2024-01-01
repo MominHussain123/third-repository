@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: #fff;
+}
+*{
+    margin: 10px;
+}
+body{
+    background-color: rgb(255, 86, 24);
+}
+
+.one{
+    border: 10px solid #fff;
+    height: 400px;
+    width: 30%;
+    float: left;
+    background-color: #fff;
+    border-radius: 20px;
+    
+}
+.two{
+    border: 10px solid #fff;
+    height: 400px;
+    width: 30%;
+    float: left;
+    margin-left: 0%;
+    background-color: white;
+    border-radius: 20px;
+}
+.Three{
+    border: 10px solid #fff;
+    height: 400px;
+    width: 30%;
+    margin-left: 66%;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.ali{
+    color: orange;
+    
+}
+hr{
+    border-color: palevioletred;
+}
